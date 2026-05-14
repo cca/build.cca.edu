@@ -1,0 +1,14 @@
+{
+    "name": "Public Programming | Studio Forward",
+    "short_name": "Studio Forward",
+    "icons": [
+        {
+            "src": "./img/apple-touch-icon.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#00aba9",
+    "background_color": "#00aba9",
+    "display": "standalone"
+}
